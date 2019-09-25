@@ -5,6 +5,7 @@ public class Hero {
     private String name;
     private String sex;
     private int age;
+    //dwa
 
     public Hero() {
     }
